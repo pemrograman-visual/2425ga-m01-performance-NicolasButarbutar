@@ -53,8 +53,12 @@ public class M01 {
                     }
                 }
             }
-            System.out.println(sKS * value);
+            System.out.println(toFixed(sKS * value,1));
             credits = input.nextLine();
         }
+    }
+    
+    private static String toFixed(double value, int digits) {
+        return String.format("%." + digits + "f", value);
     }
 }

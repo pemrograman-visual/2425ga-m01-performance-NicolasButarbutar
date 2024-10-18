@@ -1,3 +1,4 @@
 Kami memahami soal yang diberikan.
 Kami mencoba mencari kode untuk mengubah String menjadi Integer dengan menggunakan ToIntenger.
+Kami mencari solusi untuk melihat autograding pada Github.
 Kami sudah menyelesaikan ujian praktikum.

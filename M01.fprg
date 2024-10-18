@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="M01"/>
+        <attribute name="authors" value="ASUS"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-10-18 10:00:35 AM"/>
+        <attribute name="created" value="QVNVUztMQVBUT1AtRjc4Q0hCNkc7MjAyNC0xMC0xODswOTo1NDoyMyBBTTsyNjA2"/>
+        <attribute name="edited" value="QVNVUztMQVBUT1AtRjc4Q0hCNkc7MjAyNC0xMC0xODsxMDowMDozNSBBTTsxOzI3MDA="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="grade, credit" type="String" array="False" size=""/>
+            <declare name="value" type="Real" array="False" size=""/>
+            <input variable="value"/>
+            <while expression="value !=&quot;---&quot;">
+                <declare name="SKS" type="Integer" array="False" size=""/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>
